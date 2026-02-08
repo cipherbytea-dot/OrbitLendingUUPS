@@ -14,7 +14,7 @@
 ## 📦 Installation
 
 ```bash
-git clone [https://github.com/cipherbytea-dot/OrbitLendingUUPS.git](https://github.com/cipherbytea-dot/OrbitLendingUUPS.git)
+git clone https://github.com/cipherbytea-dot/OrbitLendingUUPS.git
 cd OrbitLendingUUPS
 forge install
 forge test
